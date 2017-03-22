@@ -1,7 +1,7 @@
 {
-  "name": "cute-files",
-  "version": "1.0.2",
-  "description": "Turn any folder on your computer into a cute file browser, available on the local network.",
+  "name": "cute",
+  "version": "1.0",
+  "description": "just hello",
   "main": "cute-files.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
